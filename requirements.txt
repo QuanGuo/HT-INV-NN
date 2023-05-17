@@ -1,0 +1,7 @@
+matplotlib
+numpy
+tensorflow
+sklearn
+keras
+scipy
+mat73
