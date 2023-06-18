@@ -8,7 +8,7 @@ This notebook combines dimensionality reduction techniques with a predictive dee
 
 Please note this work:
 * Assumes the reader is comfortable with Python, especially, python notebook and pytorch.
-* Google Colabis recommended as the programming platform.
+* Google Colab is recommended as the programming platform.
 
 ## Data
 Data used for training DL models in paper experiments is stored at 
