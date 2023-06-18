@@ -7,7 +7,7 @@ Author: Quan G
 This notebook combines dimensionality reduction techniques with a predictive deep learning (DL) model to estimate high-dimensional Gaussian and non-Gaussian channel fields. The HT-INV-NN model consists of a predictor that directly learns the inverse process from hydraulic head measurements to latent variables of random fields, and a decoder that generates high-dimensional parameter fields from predicted latent variables.
 
 Please note this work:
-* Assumes the reader is comfortable with Python, especially, python notebook and pytorch.
+* Assumes the reader is comfortable with Python, especially, jupyter notebook and tensorflow.
 * Google Colab is recommended as the programming platform.
 
 ## Data
