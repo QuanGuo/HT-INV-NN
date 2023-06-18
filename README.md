@@ -42,6 +42,7 @@ Data used for training DL models in paper experiments is stored at
 ```
 @article{GUO2023128828,
       title = {Predictive deep learning for high-dimensional inverse modeling of hydraulic tomography in Gaussian and non-Gaussian fields},
+      doi = {DOI: 10.5281/zenodo.7992543},
       journal = {under review},
 }
 ```
